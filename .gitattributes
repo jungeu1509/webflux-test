@@ -1,0 +1,26 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Java
+*.java text
+*.gradle text
+*.properties text
+*.yml text
+*.yaml text
+*.xml text
+
+# Scripts
+*.sh text eol=lf
+*.bat text eol=crlf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+# Documentation
+*.md text
+*.json text
+
+# Binary
+*.jar binary
+*.png binary
+*.jpg binary
+*.gif binary
