@@ -1,5 +1,7 @@
 # Spring Boot WebFlux 예제 프로젝트
 
+> *이 프로젝트는 [Claude](https://claude.ai)의 도움을 받아 작성되었습니다.*
+
 Spring WebFlux를 사용한 반응형(Reactive) 웹 애플리케이션 예제입니다.
 
 ## 기술 스택
